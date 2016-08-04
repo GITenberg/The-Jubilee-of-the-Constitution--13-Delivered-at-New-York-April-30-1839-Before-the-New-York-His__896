@@ -1,0 +1,30 @@
+_repo: The-Jubilee-of-the-Constitution--13-Delivered-at-New-York-April-30-1839-Before-the-New-York-His__896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, John Quincy
+    birthdate: 1767
+    deathdate: 1848
+    gutenberg_agent_id: '460'
+    url: http://www.gutenberg.org/2009/agents/460
+    wikipedia: http://en.wikipedia.org/wiki/John_Quincy_Adams
+description: ''
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Constitution'
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1783-1789'
+- !lcsh 'Washington, George, 1732-1799 -- Anniversaries, etc.'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- !lcc 'JK'
+- GITenberg
+title: "The Jubilee of the Constitution\r\nDelivered at New York, April 30, 1839,\
+  \ Before the New York Historical Society"
+url: http://www.gutenberg.org/ebooks/896
