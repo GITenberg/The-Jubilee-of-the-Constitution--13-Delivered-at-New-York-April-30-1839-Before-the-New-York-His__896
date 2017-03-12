@@ -1,5 +1,8 @@
 _repo: The-Jubilee-of-the-Constitution--13-Delivered-at-New-York-April-30-1839-Before-the-New-York-His__896
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, John Quincy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/460
     wikipedia: http://en.wikipedia.org/wiki/John_Quincy_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/896#The-Jubilee-of-the-Constitution--13-Delivered-at-New-York-April-30-1839-Before-the-New-York-His_
 gutenberg_issued: '1997-04-01'
 gutenberg_type: Text
 identifiers:
